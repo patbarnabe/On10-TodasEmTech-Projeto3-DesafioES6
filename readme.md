@@ -5,8 +5,11 @@
 ## Índice
 
 1. [Projeto](#-projeto)
-2. [Resultado](#%EF%B8%8F-resultado)
-3. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
+2. [Tecnologias Utilizadas](#robot-tecnologias-utilizadas)
+3. [Resultado](#%EF%B8%8F-resultado)
+4. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
+
+---
 
 ## 📚 Projeto
 Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a [API do GitHub](https://docs.github.com/pt/rest) para recuperar informações do usuário quando um nome de usuário válido é inserido. Deverá ser exibido o avatar, o nome de usuário, a contagem de seguidores e a contagem de repositórios.
@@ -23,6 +26,8 @@ Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a
 - [x] Limpar campo de texto depois que inserir o nome de usuário
 - [x] O usuário deve ser redirecionado para uma página de usuário não encontrado caso não exista perfil com aquele nome de usuário
 
+---
+
 ## :robot: Tecnologias Utilizadas
 
 | Ferramenta | Descrição |
@@ -32,10 +37,14 @@ Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a
 | `JavaScript` |  Linguagem de programação interpretada estruturada|
 | `Git e GitHub` | Sistemas de controle de versões distribuídos|
 
+---
+
 ## ✔️ Resultado
 <div style="display: flex" align="center">
   <img align="center" alt="gif-results" src="./maravilhosa/anneFrank/imagensAnne/gif-annefrank.gif"><br><br>
 </div>
+
+---
 
 ## 👩‍💻 Sobre a Desenvolvedora
 ### Patrícia Barnabé
