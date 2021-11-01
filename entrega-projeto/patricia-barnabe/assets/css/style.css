@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    text-decoration: none;
+    color: inherit;
+    font-family: 'Quicksand', sans-serif;
+    overflow: hidden;
+  }
+
+body {
+    background-color: #E5E5E5;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin: 7%;
+}
+
+.profile {
+    text-align: center;
+    width: 35vh;
+}
+
+.footer {
+    background-color: white;
+    text-align: center;
+    padding: 1%;
+    font-size: small;
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    position: fixed;
+    width: 100%;
+    color: #313131;
+}
+
+.patricia {
+    color:#EC9B69;
+}
+
+.nav_bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    padding: 1%;
+}
+
+.foto {
+    height: 35vh;
+    border-radius: 5%;
+    margin-bottom: 2%;
+}
+
+.container_input{
+    border: 1px solid black;
+    width: 25%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+}
+   
+.input{
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 8px;
+}
+   
+.btn {
+    background-color: transparent;
+    border: none;
+} 
+
+.lupa {
+    color: black;
+}
+
+.icons {
+    color: #EC9B69;
+    margin: 3%;
+}
+
+.titulo1 {
+    color: #EC9B69;
+}
+
+.titulo {
+    font-size: larger;
+    display: flex;
+    flex-direction:row;
+}
+
+.nome {
+    color: #EC9B69;
+}
+
+.ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0;
+}
+
+.bio {
+    text-align:left;
+    margin-bottom: 5%;
+    color:#313131;
+}
+
+.li {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #313131;
+}
+
+.login {
+    margin-bottom: 5%;
+    color:#313131
+}
+
+.mensagem {
+    color:#313131;
+    text-align: center;
+}
+
+.search_off {
+    text-align: center;
+}
+
+.mensagem_erro {
+    font-size: 25px;
+    text-align: center;
+}
+
+.imagem_notFound {
+    height: 70vh;
+}
+
+.home {
+    text-align: center;
+    margin-top: 8%;
+}
