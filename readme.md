@@ -41,7 +41,11 @@ Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a
 
 ## ✔️ Resultado
 <div style="display: flex" align="center">
-  <img align="center" alt="gif-results" src="./maravilhosa/anneFrank/imagensAnne/gif-annefrank.gif"><br><br>
+  <img align="center" alt="result1" src="./images/result1.png"><br><br>
+  <img align="center" alt="result2" src="./images/result2.png"><br><br>
+  <img align="center" alt="result3" src="./images/result3.png"><br><br>
+  <img align="center" alt="result4" src="./images/result4.png"><br><br>
+
 </div>
 
 ---
