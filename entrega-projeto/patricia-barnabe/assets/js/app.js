@@ -75,7 +75,7 @@ const notFound = () => {
             <h3 class="mensagem"> Por favor, pesquise novamente </h3>
         </div>
         <picture>
-            <img class="imagem_notFound" src="../../../images/not-found.svg"
+            <img class="imagem_notFound" src="./img/not-found.svg"
         </picture>
     `
 }
