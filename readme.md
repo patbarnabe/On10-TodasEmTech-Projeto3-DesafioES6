@@ -23,6 +23,15 @@ Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a
 - [x] Limpar campo de texto depois que inserir o nome de usuário
 - [x] O usuário deve ser redirecionado para uma página de usuário não encontrado caso não exista perfil com aquele nome de usuário
 
+## :robot: Tecnologias Utilizadas
+
+| Ferramenta | Descrição |
+| --- | --- |
+| `HTML 5` | Linguagem de marcação |
+| `CSS3` | Linguagem de estilização |
+| `JavaScript` |  Linguagem de programação interpretada estruturada|
+| `Git e GitHub` | Sistemas de controle de versões distribuídos|
+
 ## ✔️ Resultado
 <div style="display: flex" align="center">
   <img align="center" alt="gif-results" src="./maravilhosa/anneFrank/imagensAnne/gif-annefrank.gif"><br><br>
