@@ -1,15 +1,22 @@
-# Projeto III - Github Search
+<h1 align="center">Reprograma 💜 Todas Em Tech - Projeto Github Search</h1>
 
-Turma Online 10 - Todas em Tech | Front-End | 2021 |  Projeto 3 Desafio ES6
+<p align="center">10ª Turma | Front-end | maio 2021 </p>
 
+## Índice
 
-Neste projeto, você e sua dupla criará uma aplicação de pesquisa que usa a API GitHub para recuperar informações do usuário quando um nome de usuário válido é inserido. Ele deve exibir avatar, nome de usuário, contagem de seguidores, contagem de repositórios.
+1. [Projeto](#-projeto)
+2. [Fases](#-fases)
+3. [Protótipo Figma](#-protótipo-figma)
+4. [Resultado](#%EF%B8%8F-resultado)
+5. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
 
+## 📚 Projeto
+Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a API do GitHub para recuperar informações do usuário quando um nome de usuário válido é inserido. Deverá ser exibido o avatar, o nome de usuário, a contagem de seguidores e a contagem de repositórios.
 
-
+## 🎯 Fases
 ## Fase 1
-- [ ] Criar o layout seguindo o Figma disponibilizado.
-- [ ] O Input recebe o username de um usuário. Quando clicar no botão de pesquisa, caso o usuário exista dentro da base de dados da API, a aplicação deve mostrar os dados desta forma: 
+- [x] Criar o layout seguindo o Figma disponibilizado.
+- [x] O Input recebe o username de um usuário. Quando clicar no botão de pesquisa, caso o usuário exista dentro da base de dados da API, a aplicação deve mostrar os dados desta forma: 
    - Exibir o avatar.
    - Nome do usuário.
    - Username
