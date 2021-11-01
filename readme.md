@@ -22,7 +22,7 @@ Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a
    - Total de repositórios
 - [x] Validar campo de texto para não entrar texto vazio
 - [x] Limpar campo de texto depois que inserir o nome de usuário
-- [x] O usuário deve ser avisado se o nome de usuário não for válido 
+- [x] O usuário deve ser redirecionado para uma página de usuário não encontrado caso não exista perfil com aquele nome de usuário
 
 ## ✔️ Resultado
 <div style="display: flex" align="center">
