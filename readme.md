@@ -5,9 +5,8 @@
 ## Índice
 
 1. [Projeto](#-projeto)
-2. [Fases](#-fases)
-3. [Resultado](#%EF%B8%8F-resultado)
-4. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
+2. [Resultado](#%EF%B8%8F-resultado)
+3. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
 
 ## 📚 Projeto
 Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a [API do GitHub](https://docs.github.com/pt/rest) para recuperar informações do usuário quando um nome de usuário válido é inserido. Deverá ser exibido o avatar, o nome de usuário, a contagem de seguidores e a contagem de repositórios.
