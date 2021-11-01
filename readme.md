@@ -10,9 +10,9 @@
 4. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
 
 ## 📚 Projeto
-Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a API do GitHub para recuperar informações do usuário quando um nome de usuário válido é inserido. Deverá ser exibido o avatar, o nome de usuário, a contagem de seguidores e a contagem de repositórios.
+Neste projeto, deverá ser desenvolvida uma aplicação de pesquisa que usará a [API do GitHub](https://docs.github.com/pt/rest) para recuperar informações do usuário quando um nome de usuário válido é inserido. Deverá ser exibido o avatar, o nome de usuário, a contagem de seguidores e a contagem de repositórios.
 
-- [x] Criar o layout seguindo o Figma disponibilizado.
+- [x] Criar o layout seguindo o [Figma](https://www.figma.com/file/UjuUSqwVpb7OtbWysQZffj/github-search?node-id=0%3A1) disponibilizado.
 - [x] O Input recebe o username de um usuário. Quando clicar no botão de pesquisa, caso o usuário exista dentro da base de dados da API, a aplicação deve mostrar os dados desta forma: 
    - Exibir o avatar.
    - Nome do usuário.
